@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Smart Discharge Planning with Reinforcement Learning",
+    "imageSrc": "projects/project.png",
+    "description": "Spearheaded a Developed a machine learning-based Q-learning model using heart rate, SpO2, and other metrics to recommend actions like discharge or ICU transfer, leveraging Scikit Learn for preprocessing and visualization.",
+    "skills": ["ML", "RL", "AI", "Flask"],
+    "source": ""
+  },
+  {
+    "title": "Customer Support Chatbot",
+    "imageSrc": "projects/project1.png",
+    "description": "Built a customer support chatbot using \textbf{NLP} techniques and a pre-trained LLM to understand and respond to customer queries, achieving around 75% accuracy in generating relevant responses.",
+    "skills": ["LLM", "NLP", "Python", "Pandas"],
+    "source": ""
+  },
+  {
+    "title": "Spartan MyComapnion",
+    "imageSrc": "projects/spartan.png",
+    "description": "Developed a full-stack web application enabling SJSU students to post events, connect through chat rooms, vote, and reply to posts. Leveraged AWS services like DynamoDB, Lambda, Amplify, and S3 for scalable functionalities.",
+    "skills": [
+      "ReactJS",
+      "Amplify",
+      "DynamoDB",
+      "Lambda"
+    ],
+    "source": "https://github.com/sanket6399/spartan-my-companion-frontend"
+  },
+  {
+    "title": "IOT Based Smart City using Image Processing",
+    "imageSrc": "projects/iot.png",
+    "description": "Pioneered the development of an IoT-based Smart City system integrating advanced Image Processing techniques, fostering efficient urban management and enhancing the overall quality of life.",
+    "skills": ["Python", "C", "OpenCV", " C++" ,"Arduino"],
+    "source": ""
+  }
+]
